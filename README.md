@@ -25,7 +25,7 @@ Este tela de login foi desenvolvido em meus estudos, com o propósito de aprende
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
--  [Bootstrap](https://getbootstrap.com/)
+-  [BOOTSTRAP](https://getbootstrap.com/)
 
 ## :information_source: Como usar
 
